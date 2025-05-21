@@ -1,4 +1,4 @@
-import { QueryTable } from "./components/QueryTable";
+import { QueryTable } from "./components/QueryTable.solution";
 import "./styles.css";
 
 const App = () => {
